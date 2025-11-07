@@ -1,0 +1,3 @@
+gpredict.cfg eol=lf
+README.md eol=crlf
+modules/*.mod eol=lf

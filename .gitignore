@@ -1,0 +1,6 @@
+*.qth
+logs/
+#satdata/*.sat
+#satdata/cache/
+satdata/
+trsp
